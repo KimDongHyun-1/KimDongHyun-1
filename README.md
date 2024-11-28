@@ -29,7 +29,9 @@
 - **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
 https://weak-play-adb.notion.site/14c0dea5e7a380878dc5cb5ff87bbaa0?pvs=4
+- **블로그**: [블로그 주소]
 https://weak-play-adb.notion.site/JOHN-WALKER-14c0dea5e7a380baa7bffb048712d484?pvs=4
+- **블로그**: [블로그 주소]
 https://weak-play-adb.notion.site/Name-Resume-14c0dea5e7a380d79712cb46f3b72c3e?pvs=4
 <!-- 이 섹션은 자신의 프로필을 더욱 개성 있게 만들기 위해 추가할 수 있습니다 -->
 ## 🔥 최근 프로젝트
